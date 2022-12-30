@@ -100,7 +100,7 @@ main p{
 }
 .articleimage1 > p{
     background-color: #1d1f0eb4;
-    width: 55vw;
+    width: 60vw;
     border-radius: 20px;
     padding-left: 1.5vw;
 }
@@ -120,7 +120,7 @@ main p{
 }
 .articleimage2 > p{
     background-color: #1d1f0eb4;
-    width: 55vw;
+    width: 60vw;
     border-radius: 20px;
     padding-left: 1.5vw;
 }
@@ -128,7 +128,7 @@ main p{
 .articleimage3{
     background-image: url('https://img.wattpad.com/cdefc12bc58326de39c34dec02f43f94d81ac057/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5a39645a7071726d476a577363673d3d2d3235363638363835392e313435323135323239303263346132312e6a7067?s=fit&w=720&h=720');
     margin: 20px 0px;
-    height: 40v2;
+    height: 40vw;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -141,7 +141,7 @@ main p{
 }
 .articleimage3 > p{
     background-color: #1d1f0eb4;
-    width: 55vw;
+    width: 60vw;
     border-radius: 20px;
     padding-left: 1.5vw;
 }
@@ -161,7 +161,7 @@ main p{
 }
 .articleimage4 > p{
     background-color: #1d1f0eb4;
-    width: 55vw;
+    width: 60vw;
     border-radius: 20px;
     padding-left: 1.5vw;
 }
